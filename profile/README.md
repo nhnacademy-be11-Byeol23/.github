@@ -128,7 +128,7 @@
 # 테스트 커버리지 관리
 - sonar qube를 활용한 테스트 커버리지 측정( TC가 80%이상이면 pass)
 - 각 레포지토리 별 관리
-![alt text](image-8.png)
+[![alt text](image-8.png)](https://private-user-images.githubusercontent.com/90737984/519563933-5caf88c4-c0fb-480c-b9dd-ce9b4b7abbcd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU3MDM5ODIsIm5iZiI6MTc2NTcwMzY4MiwicGF0aCI6Ii85MDczNzk4NC81MTk1NjM5MzMtNWNhZjg4YzQtYzBmYi00ODBjLWI5ZGQtY2U5YjRiN2FiYmNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE0VDA5MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlOTNkNTUyYzIzY2MzNDlkODUzZjgwNjlmZjMzYTZhNmJlMGE4NjVmZWNkZmY3MGRhZTkzMTJkMzU4YTU3NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eku9w2_WDz27HaCKMfnM-TsT8DXyqGBtKWH7xuDAMBs)
 
 # 역할 분담
 ## 김진수
