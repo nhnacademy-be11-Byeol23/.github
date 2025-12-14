@@ -120,9 +120,11 @@
 
 # 일정 관리(WBS)
 - github RoadMap 활용으로 전체적인 일정 진행상황 관리
-![alt text](image-5.png)
+<img width="1799" height="955" alt="스크린샷 2025-12-14 오후 6 13 18" src="https://github.com/user-attachments/assets/fa87cb9c-41be-4239-ab24-31316565d70f" />
+
 - github kanban board로 진행 사항 관리
-![alt text](image-6.png)
+<img width="624" height="386" alt="스크린샷 2025-12-14 오후 5 55 08" src="https://github.com/user-attachments/assets/e880cea9-e416-47f5-aff2-b86995c912f4" />
+
 # 테스트 커버리지 관리
 - sonar qube를 활용한 테스트 커버리지 측정( TC가 80%이상이면 pass)
 - 각 레포지토리 별 관리
