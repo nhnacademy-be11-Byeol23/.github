@@ -12,7 +12,7 @@
 
 ## 개발 환경
 - 개발도구: Intellij IDEA - Ultimate
-- 언어: Java 21 LTS
+- 언어: Java 21.0.7 LTS
 - 빌드도구: Maven
 - 개발
     - Spring Framework: 3.5.6
