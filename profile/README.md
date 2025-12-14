@@ -128,7 +128,7 @@
 # 테스트 커버리지 관리
 - sonar qube를 활용한 테스트 커버리지 측정( TC가 80%이상이면 pass)
 - 각 레포지토리 별 관리
-
+<img width="1902" height="832" alt="Image" src="https://github.com/user-attachments/assets/5caf88c4-c0fb-480c-b9dd-ce9b4b7abbcd" />
 # 역할 분담
 ## 김진수
 - Minio를 이용한 도서/리뷰/포장지 이미지 관리
