@@ -102,7 +102,7 @@
 ---
 
 ## 아키텍처 구조
-![alt text](image-1.png)
+<img width="477" height="220" alt="image" src="https://github.com/user-attachments/assets/2b237fea-3439-40d5-b19f-906b5f557adb" />
 ## ERD
 ![alt text](image-2.png)
 ## 포스터
