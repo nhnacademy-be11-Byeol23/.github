@@ -123,12 +123,11 @@
 <img width="1799" height="955" alt="스크린샷 2025-12-14 오후 6 13 18" src="https://github.com/user-attachments/assets/fa87cb9c-41be-4239-ab24-31316565d70f" />
 
 - github kanban board로 진행 사항 관리
-<img width="624" height="386" alt="스크린샷 2025-12-14 오후 5 55 08" src="https://github.com/user-attachments/assets/e880cea9-e416-47f5-aff2-b86995c912f4" />
+<img width="1799" height="955" alt="스크린샷 2025-12-14 오후 6 13 18" src="https://github.com/user-attachments/assets/ccab55a4-700a-4f42-84ae-b8795da6504c" />
 
 # 테스트 커버리지 관리
 - sonar qube를 활용한 테스트 커버리지 측정( TC가 80%이상이면 pass)
 - 각 레포지토리 별 관리
-[![alt text](image-8.png)](https://private-user-images.githubusercontent.com/90737984/519563933-5caf88c4-c0fb-480c-b9dd-ce9b4b7abbcd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU3MDM5ODIsIm5iZiI6MTc2NTcwMzY4MiwicGF0aCI6Ii85MDczNzk4NC81MTk1NjM5MzMtNWNhZjg4YzQtYzBmYi00ODBjLWI5ZGQtY2U5YjRiN2FiYmNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE0VDA5MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlOTNkNTUyYzIzY2MzNDlkODUzZjgwNjlmZjMzYTZhNmJlMGE4NjVmZWNkZmY3MGRhZTkzMTJkMzU4YTU3NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eku9w2_WDz27HaCKMfnM-TsT8DXyqGBtKWH7xuDAMBs)
 
 # 역할 분담
 ## 김진수
