@@ -103,17 +103,21 @@
 
 ## 아키텍처 구조
 <img width="477" height="220" alt="image" src="https://github.com/user-attachments/assets/2b237fea-3439-40d5-b19f-906b5f557adb" />
+
 ## ERD
-![alt text](image-2.png)
+<img width="5040" height="2774" alt="Copy of _23#" src="https://github.com/user-attachments/assets/1e667c5d-ecae-43d9-8f88-23b8af55d7ea" />
+
 ## 포스터
-![alt text](image-3.png)
+![별이삼샵 포스터](https://github.com/user-attachments/assets/f05f4f1d-aca2-4f7c-837e-870950910cb8)
+
 # 프로젝트 관리
 > Github 제공하는 `Projects`를 활용하여 전반적인 프로젝트 관리
 - 애자일 기법을 이용해
 - 월요일: 10:45
 - 화-금요일: 09:00에 매일 스크럼을 진행.
 - 현재 진행 사항 및 이슈 보고
-![alt text](image-4.png)
+<img width="1773" height="947" alt="스크린샷 2025-12-14 오후 5 50 42" src="https://github.com/user-attachments/assets/04271047-c98c-4b0f-a044-968b45a5f7bf" />
+
 # 일정 관리(WBS)
 - github RoadMap 활용으로 전체적인 일정 진행상황 관리
 ![alt text](image-5.png)
